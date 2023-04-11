@@ -1,0 +1,29 @@
+#login{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#dentro{
+    text-align: center;
+
+}
+#respuesta{
+    text-align: center;
+}
+
+#ejercicios{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+#cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
