@@ -27,7 +27,7 @@
 </head>
 <body>
     <div class="container">
-    <h1>Eliminar Curso</h1>
+    <h1>Eliminar Matricula</h1>
         <h2>Nada aquí... lo siento :c </h2>
         <a class="btn btn-outline-danger" type="button" href="read_matricula.php">Cancelar</a>
     </div>
